@@ -5,7 +5,7 @@
 
 #### 2- Quais as principais métricas que podemos utilizar para definir uma política de escalabilidade para tasks de um App java em um cluster ECS?
 
-#### 3- Qual a diferença entre Terraform e CloudFormation?
+#### 3- O que são Terraform e CloudFormation?
 
 #### 4- Usando o Princípio Aberto-Fechado (OCP) refatore o código abaixo para que futuramente seja possível adicionar novos tipos de pagamento sem a necessidade de acrescentar uma nova condição no `if` do método `processarPagamento`. Explique quais as vantagens de utilizar esse princípio.
 
